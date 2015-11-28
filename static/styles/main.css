@@ -1,0 +1,45 @@
+div {
+	padding:3px 10px;
+}
+body {
+	background:#000;
+	color:#ddd;
+}
+
+#header {
+	background:#ccccff;
+	color:#585858;
+	margin-bottom:20px;
+}
+
+.block {
+	margin-bottom:10px;
+}
+
+.block .title {
+	background:#aaaaff;
+	color:#585858;
+}
+
+.block .body {
+	background:#585858;
+	color:#ddd;
+}
+
+.time-row .time-timer {
+	background:#585858;
+	border:1px solid #fff;
+	color: #00ff00;
+}
+
+.time-row .time-entry {
+	background:#ccc;
+	border:1px solid #0000ff;
+	color: #005500;
+}
+
+.submit-button {
+	background:#00ff00;
+	border:1px solid #fff;
+	color: #585858;
+}
